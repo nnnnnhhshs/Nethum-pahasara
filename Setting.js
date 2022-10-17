@@ -92,9 +92,9 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 
-global.vcardowner = ['94767233346'] //ur owner number
+global.vcardowner = ['94787818321'] //ur owner number
 
-global.ownername = "SACHI-MD-WA-BOT" //ur owner name
+global.ownername = "Nethum pahasara" //ur owner name
 
 global.ytname = "YT: SACHIYA" //ur yt chanel name
 
@@ -104,11 +104,11 @@ global.location = "Srl Lanka, hambanthota, thissa" //ur location
 
 //bot bomdy
 
-global.owner = ['94714188730'] //ur number 
+global.owner = ['94787818321'] //ur number 
 
-global.ownertag = '94714188730' //ur tag number
+global.ownertag = '94787818321' //ur tag number
 
-global.botname = 'SACHI-MD-WA-BOT' //ur bot name
+global.botname = 'Nethum pahasara' //ur bot name
 
 global.linkz = "SACHI-MD-WA-BOT" //your theme url which will be displayed on whatsapp
 
@@ -120,9 +120,9 @@ global.reactmoji = "😯" //ur menu react emoji
 
 global.themeemoji = "🤔" //ur theme emoji
 
-global.packname = "SACHI-MD-WA-BOT" //ur sticker watermark packname
+global.packname = "Nethum pahasara" //ur sticker watermark packname
 
-global.author = "SACHI-MD-WA-BOT" //ur sticker watermark author
+global.author = "Nethum pahasara" //ur sticker watermark author
 
 global.menumoji ="❤️"
 
@@ -142,7 +142,7 @@ global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
 
-global.premium = ['94767233346'] //ur premium numbers
+global.premium = ['94787818321'] //ur premium numbers
 
 global.ntilinkytvid = []
 
